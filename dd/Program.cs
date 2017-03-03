@@ -19,7 +19,6 @@ namespace dd
             Application.Run(new Form1());
 
             //fffr
-            //ddd
         }
     }
 }
